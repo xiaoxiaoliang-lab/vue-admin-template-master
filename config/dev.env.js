@@ -7,5 +7,5 @@ module.exports = merge(prodEnv, {
   //默认路径
   //BASE_API: '"https://easy-mock.com/mock/5950a2419adc231f356a6636/vue-admin"',
   //此路径加上src/api/hospset.js中的url就是完整得路径
-  BASE_API: '"http://localhost:8202"',
+  BASE_API: '"http://localhost:9001"',
 })
